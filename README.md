@@ -34,3 +34,5 @@ Screens designed using [tool used, e.g., Balsamiq/Figma] to visualize:
 - `/persona/`: User research and scenario
 - `/wireframes/`: Dashboard and app screens
 - `/notes/`: Research notes on existing apps (Notion, OneNote, Evernote)
+<img width="565" height="844" alt="Screenshot 2025-07-20 at 20 20 40" src="https://github.com/user-attachments/assets/e6951e96-fdf5-4ec4-baa0-9556dc38548f" />
+
