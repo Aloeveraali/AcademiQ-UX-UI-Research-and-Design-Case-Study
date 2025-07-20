@@ -6,25 +6,25 @@ Created as part of a UX/UI design module, this project focuses on identifying us
 ## 🔍 Overview
 AcademiQ aims to centralize class notes, deadlines, collaborative tools, and scheduling into a single intuitive platform for students managing complex academic and research schedules.
 
-## 👩🏻 Persona
+## Persona
 **Name:** Noor Hidaya  
 **Major:** Biomedical Engineering  
 **Needs:** Better organization of multi-format academic content; enhanced collaboration tools  
 **Frustrations:** Poor integration of scientific content and scattered notes across devices
 
-## 🛠 Features Ideated
+## Features Ideated
 - Smart note organization (text, diagrams, audio)
 - Shared collaborative spaces
 - Integrated weekly planners and recurring deadline reminders
 
-## 🎨 Wireframes
+## Wireframes
 Screens designed using [tool used, e.g., Balsamiq/Figma] to visualize:
 - Dashboard
 - Notes section
 - Calendar/deadline interface
 - Collaborative workspace
 
-## 📚 Tools Used
+## Tools Used
 - Persona development
 - Scenario writing
 - Low-fidelity wireframes
@@ -35,4 +35,14 @@ Screens designed using [tool used, e.g., Balsamiq/Figma] to visualize:
 - `/wireframes/`: Dashboard and app screens
 - `/notes/`: Research notes on existing apps (Notion, OneNote, Evernote)
 <img width="565" height="844" alt="Screenshot 2025-07-20 at 20 20 40" src="https://github.com/user-attachments/assets/e6951e96-fdf5-4ec4-baa0-9556dc38548f" />
+
+## Persona & Scenario
+
+[View Noor’s Scenario (PDF)]
+[EIMAAN ALI  SCENARIO (1).pdf](https://github.com/user-attachments/files/21337430/EIMAAN.ALI.SCENARIO.1.pdf)
+
+
+##  Wireframes
+[Download Full Wireframes (PDF)]
+[AcademiQ by eimaan ali 22352376.pdf](https://github.com/user-attachments/files/21337431/AcademiQ.by.eimaan.ali.22352376.pdf)
 
